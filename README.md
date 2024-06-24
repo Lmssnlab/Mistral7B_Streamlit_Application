@@ -1,4 +1,7 @@
-# Application Streamlit Mistral-7B-Instruct-v0.3 en Français
+## Lien vers l'application
+Vous pouvez accéder à l'application en utilisant le lien suivant : [https://mistral7bappapplication-kp3jafmkjuatp43rml3nng.streamlit.app/](https://mistral7bappapplication-kp3jafmkjuatp43rml3nng.streamlit.app/)
+
+## Application Streamlit Mistral-7B-Instruct-v0.3 en Français
 
 Cette application Streamlit utilise le modèle de langage Mistral-7B-Instruct-v0.3 pour générer des réponses en français basées sur les instructions fournies par l'utilisateur.
 
